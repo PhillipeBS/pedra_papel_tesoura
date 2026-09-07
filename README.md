@@ -72,7 +72,9 @@ Você Venceu!
 ## Estrutura
 
 ```text
-.
+pedra_papel_tesoura/
+├── .gitignore
+├── README.md
 └── main.c
 ```
 
